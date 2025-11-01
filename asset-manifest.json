@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.13300ca7.css",
+    "main.js": "/static/js/main.44ec693e.js",
+    "static/media/snellroundhand_black.otf": "/static/media/snellroundhand_black.27d7e805139bbf283885.otf",
+    "index.html": "/index.html",
+    "main.13300ca7.css.map": "/static/css/main.13300ca7.css.map",
+    "main.44ec693e.js.map": "/static/js/main.44ec693e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13300ca7.css",
+    "static/js/main.44ec693e.js"
+  ]
+}
