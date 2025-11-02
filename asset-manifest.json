@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.fc641351.css",
-    "main.js": "/static/js/main.875ea38c.js",
-    "static/media/Snell Roundhand Regular.ttf": "/static/media/Snell Roundhand Regular.7e354df498b210535be7.ttf",
-    "index.html": "/index.html",
-    "main.fc641351.css.map": "/static/css/main.fc641351.css.map",
-    "main.875ea38c.js.map": "/static/js/main.875ea38c.js.map"
+    "main.css": "./static/css/main.6f72f39e.css",
+    "main.js": "./static/js/main.875ea38c.js",
+    "static/media/Snell Roundhand Regular.ttf": "./static/media/Snell Roundhand Regular.7e354df498b210535be7.ttf",
+    "index.html": "./index.html",
+    "main.6f72f39e.css.map": "./static/css/main.6f72f39e.css.map",
+    "main.875ea38c.js.map": "./static/js/main.875ea38c.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc641351.css",
+    "static/css/main.6f72f39e.css",
     "static/js/main.875ea38c.js"
   ]
 }
